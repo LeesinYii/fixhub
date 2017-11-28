@@ -1,2 +1,3 @@
 # Piplin
-Piplin (pronounced as "pipeline") is a hosted continuous integration and deployment system, intended to automatically build, test, and deploy your project over the web.
+
+Fixhub已更名为： [Piplin](https://github.com/Piplin/Piplin)
