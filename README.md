@@ -6,7 +6,7 @@ This project has been renamed to Piplin
 假设：你的Fixhub安装在 /var/www/fixhub，数据库使用的是mysql，数据库名是：fixhub，访问地址是fixhub.example.com
 
 
-1. 备份数据库
+1. 备份数据库(！一定要记住备份！)
 ```shell
 $  mysqldump -uroot -p654321 fixhub > fixhub-20171211.sql 
 ```
