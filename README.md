@@ -35,7 +35,7 @@ Query OK, 1 row affected (0.00 sec)
 mysql -uroot -p654321 piplin < fixhub-20171211.sql
 ```
 5、修改/var/www/piplin/.env文件，将
-** DB_DATABASE=piplin_tmp ** 修改为 DB_DATABASE=piplin
+**DB_DATABASE=piplin_tmp** 修改为 **DB_DATABASE=piplin**
 
 6、让配置文件生效 
 ```shell
