@@ -44,7 +44,7 @@ php artisan config:cache
 
 7. 升级
 ```shell
-make update
+$ php artisan migrate
 ```
 
 8. 修改supervisord的配置文件，全局替换fixhub为piplin
